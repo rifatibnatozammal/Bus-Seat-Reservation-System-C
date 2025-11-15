@@ -1,6 +1,3 @@
-Got you! Here is the **GitHub-styled, clean, modern, beautifully formatted README.md** for your **Bus Management System** — with emojis, headings, badges, code blocks, tables, and perfect formatting for GitHub.
-
-You can **copy–paste directly** into your `README.md`.
 
 ---
 
@@ -169,17 +166,10 @@ Feel free to fork this project and improve it.
 
 ## 👨‍💻 **Author**
 
-**Your Name**
-🔗 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+**ABDULLAH AL RIFAT**
+🔗 GitHub: [https://github.com/rifatibnatozammal](https://github.com/rifatibnatozammal)
+📧 Email: [youremail@example.com](mailto:rifatibnatozammal@gmail.com)
 
 ---
 
-If you want, I can also:
 
-✔ Add a **project banner image**
-✔ Generate a **professional LICENSE file**
-✔ Create a **logo icon** for the project
-✔ Make a **dark-mode style README**
-
-Just tell me!
